@@ -3,7 +3,7 @@
 
 ### Как пользоваться
 1. Задаем константу `YaDictToken`, [токен берём здесь](https://tech.yandex.ru/keys/get/?service=dict);
-2. По желанию меняем контанту `Locale`;
+2. По желанию меняем константу `Locale`;
 
 ```sh
 $ ruby synonym.rb прокрастинация
